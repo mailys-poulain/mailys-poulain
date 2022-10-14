@@ -13,7 +13,7 @@
 -Stage: 1 semaine => Ecole Maternelle
 -Alernance: 2 ans => SAFRAN
 
-## formationc
+## Etude
 - Lycéé Jules Vernes à Cergy
 - BTS SIO SLAM
 
