@@ -5,6 +5,7 @@
 -Lire 📖
 -manger 🍔
 -sortir
+-Voyager 🛫
 
 ## expérience professionnelle
 
